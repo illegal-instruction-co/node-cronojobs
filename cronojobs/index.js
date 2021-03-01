@@ -9,7 +9,7 @@ const Log = require('./functions/log')
 
 var el
 
-class CronJobs {
+class CronoJobs {
 
   startInstance(config) {
 
@@ -92,4 +92,4 @@ class CronJobs {
   }
 }
 
-module.exports = CronJobs;
+module.exports = CronoJobs;
