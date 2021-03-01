@@ -1,0 +1,24 @@
+{
+  "name": "node-cronojobs",
+  "version": "1.0.0",
+  "description": "cronojobs for node instance",
+  "main": "./cronojobs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illegal-instuction-co/node-cronjobs.git"
+  },
+  "keywords": [
+    "cronjob",
+    "nodejs",
+    "cron"
+  ],
+  "author": "illegal-instruction-co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/illegal-instuction-co/node-cronjobs/issues"
+  },
+  "homepage": "https://github.com/illegal-instuction-co/node-cronjobs#readme"
+}
